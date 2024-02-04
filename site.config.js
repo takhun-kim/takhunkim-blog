@@ -3,12 +3,11 @@ const CONFIG = {
   profile: {
     name: "Takhun Kim",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Data & ML Domain Backend Developer",
-    bio: "I develop everything using Spring and Kubernetes.",
+    role: "Data & ML Domain\nBackend Developer",
+    bio: "I develop using Spring and K8s.",
     email: "takhun.kim.de@gmail.com",
-    linkedin: "TBD",
-    github: "TBD",
-    instagram: "",
+    linkedin: "takhun-kim-data",
+    github: "takhun-kim",
   },
   projects: [
     {
@@ -23,8 +22,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "takhunkim-blog.vercel.app",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
